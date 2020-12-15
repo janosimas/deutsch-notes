@@ -19,3 +19,5 @@ Original content by Aphrodite Basdekis.
 ## * [Temporale Konnektoren](temporale-konnektoren.md)
 
 ## * [Temporale Präpositionen](temporale-praepositionen.md)
+
+## * [Passiv](passiv.md)
