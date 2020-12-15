@@ -21,3 +21,5 @@ Original content by Aphrodite Basdekis.
 ## * [Temporale Präpositionen](temporale-praepositionen.md)
 
 ## * [Passiv](passiv.md)
+
+## * [Lokale Präpositionen](lokale-praepositionen.md)
